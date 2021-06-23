@@ -10,7 +10,7 @@ public class Main {
 
         Marks student = new Marks();
 
-        for (int i=1; i<=2; i++){
+        for (int i = 1; i <= 2; i++){
             student.mk1 = scan.nextInt();
             student.mk2 = scan.nextInt();
             student.tot();

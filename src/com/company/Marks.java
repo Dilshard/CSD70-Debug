@@ -8,7 +8,9 @@ public class Marks {
 
     public void tot(){
         int tot = mk1+mk2;
+        int avg = tot/2;
         System.out.println("\nTotal: "+tot);
+        System.out.println("\nAverage: "+avg);
     }
 
 }
